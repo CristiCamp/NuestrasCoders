@@ -1,0 +1,22 @@
+.line{
+	width: 80px;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+.LINEA{
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+}
+.LINEB{
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+}
+p{
+	position: absolute;
+	font-size: 10px;
+	color: white;
+	bottom: 0px;
+	right: 10px;
+}
